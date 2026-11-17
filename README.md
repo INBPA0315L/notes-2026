@@ -184,3 +184,38 @@ The next lab will be based on the following expectations. Please ensure that you
 1. [Project `C1`](./codes/C1)
 
     Contains a partial solution for exercise `P2C1E01` and a demo code for using the *JavaFaker* library.
+
+---
+
+### Topic `C2`
+
+Collections: the `Collection` interface and the `Collections` utility class. The `List`, `Set`, and `Map` interfaces and their implementations `ArrayList`, `HashSet`, `TreeSet`, `HashMap`, and `TreeMap`. Implementing queries using collections.
+
+#### Notes
+
+1. [`C201` - `List` interface and its implementation](C201-list.md)
+1. [`C202` - `Set` interface and its implementation](C202-set.md)
+1. [`C203` - `Map` interface and its implementations](C203-map.md)
+
+#### Exercises
+
+1. [`P2C2E01` - LEGO Sets (`C2`)](./exercises/P2C2/P2C2E01.md)
+1. [`P2C2E02` - Students (`C2`)](./exercises/P2C2/P2C2E02.md)
+
+#### Highlights
+
+The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
+
+1. You must understand the relationship of the `Collection`, `List`, `Set`, and `Map` interfaces.
+1. You must always use the interfaces `List`, `Set`, and `Map` as types of references, and the implementations only for instantiation.
+1. You must be able to sort and shuffle a list using the `Collections.sort()` and `Collections.shuffle()` methods.
+1. You must be able to use the `ArrayList` class, and make a modifiable copy of an unmodifiable list.
+1. You must be able to choose between the `HashSet` and `TreeSet` classes, and you must understand their requirements (`equals()` and `hashCode()` vs. `Comparable` or `Comparator`).
+1. You must be able to choose between the `HashMap` and `TreeMap` classes, and to iterate over the keys, the values, and the entries of a map.
+1. You must be able to implement queries returning a `List`, a `Set`, or a `Map` (counting, summing, grouping, nested maps) using loops.
+
+#### Codes
+
+1. [Project `C2`](./codes/C2)
+
+    Contains a partial solution for exercise `P2C2E01`.
