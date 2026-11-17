@@ -197,11 +197,6 @@ Collections: the `Collection` interface and the `Collections` utility class. The
 1. [`C202` - `Set` interface and its implementation](C202-set.md)
 1. [`C203` - `Map` interface and its implementations](C203-map.md)
 
-#### Exercises
-
-1. [`P2C2E01` - LEGO Sets (`C2`)](./exercises/P2C2/P2C2E01.md)
-1. [`P2C2E02` - Students (`C2`)](./exercises/P2C2/P2C2E02.md)
-
 #### Highlights
 
 The next lab will be based on the following expectations. Please ensure that you are aware of all the skills mentioned. Ask your questions using the available Q&A form in Moodle:
@@ -213,9 +208,3 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to choose between the `HashSet` and `TreeSet` classes, and you must understand their requirements (`equals()` and `hashCode()` vs. `Comparable` or `Comparator`).
 1. You must be able to choose between the `HashMap` and `TreeMap` classes, and to iterate over the keys, the values, and the entries of a map.
 1. You must be able to implement queries returning a `List`, a `Set`, or a `Map` (counting, summing, grouping, nested maps) using loops.
-
-#### Codes
-
-1. [Project `C2`](./codes/C2)
-
-    Contains a partial solution for exercise `P2C2E01`.
