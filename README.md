@@ -213,7 +213,7 @@ The next lab will be based on the following expectations. Please ensure that you
 
 ### Warmup
 
-Preparing for lab test 3. Solution tutorials: the model and the repository of five sample sheets explained step by step, and every kind of query explained in general (the algorithm and the typical mistakes) with its solution on every sample sheet, side by side.
+Preparing for the *Lab test*. Solution tutorials: the model and the repository of five sample sheets explained step by step, and every kind of query explained in general (the algorithm and the typical mistakes) with its solution on every sample sheet, side by side.
 
 #### Notes
 
