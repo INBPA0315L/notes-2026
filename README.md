@@ -238,6 +238,18 @@ Preparing for lab test 3. Solution tutorials: the model and the repository of fi
 1. [Clinic](./warmup/sheets/test-3-clinic.md)
 1. [Conference](./warmup/sheets/test-3-conference.md)
 
+#### Starter projects
+
+Clone the starter of a sheet and solve it as a lab test: `base` contains no model, `half` contains the model classes with their fields, and `full` contains the complete model (you write the repository and the queries).
+
+| Sheet | Starters |
+| --- | --- |
+| [Arcade](./warmup/sheets/test-3-arcade.md) | [`base`](https://github.com/INBPA0315L/lab-test-2026-arcade-base) · [`half`](https://github.com/INBPA0315L/lab-test-2026-arcade-half) · [`full`](https://github.com/INBPA0315L/lab-test-2026-arcade-full) |
+| [Campus](./warmup/sheets/test-3-campus.md) | [`base`](https://github.com/INBPA0315L/lab-test-2026-campus-base) · [`half`](https://github.com/INBPA0315L/lab-test-2026-campus-half) · [`full`](https://github.com/INBPA0315L/lab-test-2026-campus-full) |
+| [Cinema](./warmup/sheets/test-3-cinema.md) | [`base`](https://github.com/INBPA0315L/lab-test-2026-cinema-base) · [`half`](https://github.com/INBPA0315L/lab-test-2026-cinema-half) · [`full`](https://github.com/INBPA0315L/lab-test-2026-cinema-full) |
+| [Clinic](./warmup/sheets/test-3-clinic.md) | [`base`](https://github.com/INBPA0315L/lab-test-2026-clinic-base) · [`half`](https://github.com/INBPA0315L/lab-test-2026-clinic-half) · [`full`](https://github.com/INBPA0315L/lab-test-2026-clinic-full) |
+| [Conference](./warmup/sheets/test-3-conference.md) | [`base`](https://github.com/INBPA0315L/lab-test-2026-conference-base) · [`half`](https://github.com/INBPA0315L/lab-test-2026-conference-half) · [`full`](https://github.com/INBPA0315L/lab-test-2026-conference-full) |
+
 #### Codes
 
 1. [Solutions](./warmup/solutions)
