@@ -208,3 +208,38 @@ The next lab will be based on the following expectations. Please ensure that you
 1. You must be able to choose between the `HashSet` and `TreeSet` classes, and you must understand their requirements (`equals()` and `hashCode()` vs. `Comparable` or `Comparator`).
 1. You must be able to choose between the `HashMap` and `TreeMap` classes, and to iterate over the keys, the values, and the entries of a map.
 1. You must be able to implement queries returning a `List`, a `Set`, or a `Map` (counting, summing, grouping, nested maps) using loops.
+
+---
+
+### Warmup
+
+Preparing for lab test 3. Solution tutorials: the model and the repository of five sample sheets explained step by step, and every kind of query explained in general (the algorithm and the typical mistakes) with its solution on every sample sheet, side by side.
+
+#### Notes
+
+1. [Overview: rules, order of work, building blocks](./warmup/README.md)
+1. The model and the repository of the samples: [arcade](./warmup/model-arcade.md), [campus](./warmup/model-campus.md), [cinema](./warmup/model-cinema.md), [clinic](./warmup/model-clinic.md), [conference](./warmup/model-conference.md)
+1. The queries by kind:
+    * [`AggregationQueries`](./warmup/AggregationQueries.md): queries that return a single (atomic) value
+    * [`SortingQueries`](./warmup/SortingQueries.md): queries that return a sorted list
+    * [`SearchQueries`](./warmup/SearchQueries.md): queries that return a single object
+    * [`FilteringQueries`](./warmup/FilteringQueries.md): queries that return a filtered list
+    * [`SetQueries`](./warmup/SetQueries.md): queries that return a set
+    * [`BasicMapQueries`](./warmup/BasicMapQueries.md): simple dictionaries (counting occurrences, first or last occurrences)
+    * [`AggregationMapQueries`](./warmup/AggregationMapQueries.md): dictionaries with single values
+    * [`GroupingMapQueries`](./warmup/GroupingMapQueries.md): dictionaries with collections as their values
+    * [`NestedMapQueries`](./warmup/NestedMapQueries.md): dictionaries with dictionaries as their values
+
+#### Exercises
+
+1. [Arcade](./warmup/sheets/test-3-arcade.md)
+1. [Campus](./warmup/sheets/test-3-campus.md)
+1. [Cinema](./warmup/sheets/test-3-cinema.md)
+1. [Clinic](./warmup/sheets/test-3-clinic.md)
+1. [Conference](./warmup/sheets/test-3-conference.md)
+
+#### Codes
+
+1. [Solutions](./warmup/solutions)
+
+    The complete solutions of the sample sheets.
